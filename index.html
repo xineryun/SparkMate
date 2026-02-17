@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SparkMate — Effortless Social Connections</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Inter',sans-serif;
+}
+
+body{
+  background:#0e0f1a;
+  color:#fff;
+  line-height:1.6;
+}
+
+/* NAVBAR */
+nav{
+  position:fixed;
+  width:100%;
+  top:0;
+  background:rgba(0,0,0,0.5);
+  backdrop-filter: blur(8px);
+  z-index:999;
+}
+
+.nav-wrap{
+  max-width:1200px;
+  margin:auto;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:15px 20px;
+}
+
+.logo{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  font-size:20px;
+  font-weight:600;
+}
+
+.logo img{
+  width:36px;
+  border-radius:8px;
+}
+
+nav ul{
+  list-style:none;
+  display:flex;
+  gap:25px;
+}
+
+nav a{
+  text-decoration:none;
+  color:#fff;
+  transition:0.3s;
+}
+
+nav a:hover{
+  color:#ff7a18;
+}
+
+/* HERO */
+.hero{
+  height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  padding:20px;
+  background:linear-gradient(135deg,#ff7a18,#ffb347);
+}
+
+.hero h1{
+  font-size:48px;
+  margin-bottom:20px;
+}
+
+.hero p{
+  max-width:650px;
+  margin:auto;
+  opacity:0.9;
+}
+
+.download-btn{
+  display:inline-block;
+  margin-top:30px;
+  padding:15px 35px;
+  border-radius:40px;
+  background:#fff;
+  color:#000;
+  text-decoration:none;
+  font-weight:600;
+  transition:0.3s;
+}
+
+.download-btn:hover{
+  transform:translateY(-3px);
+  box-shadow:0 10px 25px rgba(0,0,0,0.3);
+}
+
+/* SECTION */
+.section{
+  max-width:1200px;
+  margin:auto;
+  padding:90px 20px;
+  text-align:center;
+}
+
+.section h2{
+  font-size:32px;
+  margin-bottom:20px;
+  color:#ff9a3c;
+}
+
+.section p{
+  max-width:720px;
+  margin:auto;
+  opacity:0.85;
+}
+
+/* FEATURES */
+.features{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+  margin-top:40px;
+}
+
+.feature{
+  background:#17182a;
+  padding:30px;
+  border-radius:20px;
+  transition:0.3s;
+}
+
+.feature:hover{
+  transform:translateY(-8px);
+  box-shadow:0 15px 35px rgba(0,0,0,0.3);
+}
+
+/* SCREENSHOTS */
+.screens{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:20px;
+  margin-top:40px;
+}
+
+.screens img{
+  width:100%;
+  border-radius:18px;
+  transition:0.4s;
+}
+
+.screens img:hover{
+  transform:scale(1.05);
+}
+
+/* FOOTER */
+footer{
+  background:#090a12;
+  text-align:center;
+  padding:40px 20px;
+  font-size:14px;
+  color:#aaa;
+}
+
+footer a{
+  color:#ff9a3c;
+  text-decoration:none;
+}
+</style>
+</head>
+
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-wrap">
+    <div class="logo">
+      <img src="https://play-lh.googleusercontent.com/mfyewpc1xmUyu3j6dNzKX6fIP0zi6dJMJ6QnXXddiFHXq-iHylr2FnuRRkaBVn_ggDIjrB4IK9nmolWRscnKBA=w240-h480-rw">
+      SparkMate
+    </div>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#preview">Preview</a></li>
+      <li><a href="#download">Download</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div>
+    <h1>Meet People the Simple Way</h1>
+    <p>
+      SparkMate is a clean and straightforward social platform designed for adults,
+      making it easy to meet and chat with interesting people from around the world.
+    </p>
+    <a class="download-btn" href="https://play.google.com/store/apps/details?id=com.sparkmate.social.live" target="_blank">
+      Download on Google Play
+    </a>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section class="section" id="about">
+  <h2>About SparkMate</h2>
+  <p>
+    Looking for a simple and direct way to meet new friends? SparkMate removes
+    complexity and focuses on what truly matters — building genuine connections.
+    No complicated sign-ups. No hidden menus. Just you and real conversations.
+  </p>
+</section>
+
+<!-- FEATURES -->
+<section class="section" id="features">
+  <h2>Why You'll Love SparkMate</h2>
+  <div class="features">
+    <div class="feature">
+      <h3>🌍 Global Chat</h3>
+      <p>Connect with people from around the world instantly.</p>
+    </div>
+    <div class="feature">
+      <h3>⚡ Fast & Simple</h3>
+      <p>No complicated setup — start chatting in seconds.</p>
+    </div>
+    <div class="feature">
+      <h3>🔒 Private & Secure</h3>
+      <p>Your conversations remain safe and protected.</p>
+    </div>
+    <div class="feature">
+      <h3>✨ Genuine Connections</h3>
+      <p>Focus on meaningful interactions without distractions.</p>
+    </div>
+  </div>
+</section>
+
+<!-- SCREENSHOTS -->
+<section class="section" id="preview">
+  <h2>App Preview</h2>
+  <div class="screens">
+    <img src="https://play-lh.googleusercontent.com/QPl6RkaaWJNrDlikRRBiMKv1OLU-y6zYeqFe-9GxRkyv-eKvr_e6PCQTYzylYbLVrCTdw2WYMFCEjnGT0j1Bvx8=w526-h296-rw">
+    <img src="https://play-lh.googleusercontent.com/zsk096Ki3V4XxmWWLaZcK9R4sF3chYJUf2gFH3ke-KskBio0sg-1Cp2e9MAnp-1ukfUluA9UExyVS65oEhDzmRY=w526-h296-rw">
+    <img src="https://play-lh.googleusercontent.com/Fvra23H_3xGR19U5N-kDErA_Qi8z5rR0w8QoE56qWotBGwI16FaWmy5qtJrw8CHPpiIh9Nf6y5s9Z8fl-tfqBQ=w526-h296-rw">
+  </div>
+</section>
+
+<!-- DOWNLOAD -->
+<section class="section" id="download">
+  <h2>Start Connecting Today</h2>
+  <p>Join SparkMate and discover authentic conversations worldwide.</p>
+  <a class="download-btn" href="https://play.google.com/store/apps/details?id=com.sparkmate.social.live" target="_blank">
+    Get SparkMate Now
+  </a>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  © 2026 SparkMate. All rights reserved.<br><br>
+  <a href="https://sites.google.com/view/spark-mate-privacy-policy" target="_blank">
+    Privacy Policy
+  </a>
+</footer>
+
+</body>
+</html>
