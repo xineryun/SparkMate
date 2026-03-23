@@ -1066,5 +1066,8 @@ sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 
+#Magnite
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+
 #pubmatic
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
