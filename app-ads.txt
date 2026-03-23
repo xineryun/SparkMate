@@ -1049,3 +1049,15 @@ consumable.com,2001671,RESELLER,aefcd3d2f45b5070
 pubmatic.com,156610,RESELLER,5d62403b186f2ace
 openx.com,537139983,RESELLER,6a698e2ec38604c6
 openx.com,540917439,RESELLER,6a698e2ec38604c6
+
+#ogury.com
+ogury.com, 0d08db1c-0958-40fc-b6ba-899090403da3, DIRECT
+appnexus.com, 11470, RESELLER
+pubmatic.com, 163238, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4537, RESELLER, 060d053dcf45cbf3
+rubiconproject.com, 25198, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 533898005, RESELLER
+dauup.com, 34141, RESELLER
+thebrave.io, 1234746, RESELLER, c25b2154543746ac
+toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
