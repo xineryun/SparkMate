@@ -1073,6 +1073,10 @@ rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 #pubmatic
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 
+#openx
+openx.com, 565153978, DIRECT, 6a698e2ec38604c6
+openx.com, 565153991, DIRECT, 6a698e2ec38604c6
+
 #start.io
 start.io, 192064992, DIRECT
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
