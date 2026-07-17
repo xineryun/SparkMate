@@ -2,8 +2,6 @@
 google.com, pub-5340890315569916, DIRECT, f08c47fec0942fa0
 #GAM3809
 google.com, pub-9250190282432144, DIRECT, f08c47fec0942fa0
-#ADMOB
-google.com, pub-5682456780945975, DIRECT, f08c47fec0942fa0
 #ADMOB33028
 google.com, pub-7241172203564849, DIRECT, f08c47fec0942fa0
 #vungle.com
