@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sparkmate.social.live",
+      "sha256_cert_fingerprints": [
+        "54:12:1E:0C:B1:B3:0E:D4:68:8C:84:24:EE:78:30:D8:6E:BD:44:FF:44:4A:F8:CB:96:AD:D5:E1:96:19:8F:8A",
+        "C2:77:D0:B2:25:DF:56:E8:43:9A:0A:28:5F:33:35:C7:38:80:1E:EB:8A:F7:78:3F:08:AB:C3:EC:51:33:5B:4A",
+        "FD:56:58:8F:9C:39:3A:E8:9D:90:61:BD:0E:36:09:7D:27:86:3E:3E:0A:9E:C3:93:82:87:57:83:57:A4:78:A8"
+      ]
+    }
+  }
+]
