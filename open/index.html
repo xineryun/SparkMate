@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SparkMate</title>
+<meta name="robots" content="noindex">
+<style>
+  html,body{margin:0;height:100%;background:#141218;color:#fff;font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+  main{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:32px 24px;box-sizing:border-box;text-align:center}
+  img{width:96px;height:96px;border-radius:22px}
+  h1{margin:6px 0 0;font-size:28px}
+  p{margin:0;color:#b9b3c2;font-size:15px;max-width:320px;line-height:1.45}
+  a.btn{margin-top:18px;display:block;width:100%;max-width:320px;padding:16px 0;border-radius:28px;background:#E91E63;color:#fff;font-size:17px;font-weight:700;text-decoration:none}
+  a.btn:active{background:#c2185b}
+  a.open{color:#b9b3c2;font-size:14px}
+</style>
+</head>
+<body>
+
+<main>
+  <img src="/icon.png" alt="">
+  <h1>SparkMate</h1>
+  <p id="line">Short dramas, horoscopes, dating and more — all in one app.</p>
+  <a class="btn" id="get" href="https://play.google.com/store/apps/details?id=com.sparkmate.social.live">Download on Google Play</a>
+  <a class="open" id="open" href="sparkmate://">Already installed? Open the app</a>
+</main>
+<script>
+  (function () {
+    var seg = location.pathname.replace(/^\/open\/?/, '').split('/')[0] || '';
+    var q = new URLSearchParams(location.search);
+    var ref = ['utm_source=meta', 'utm_content=' + (seg || 'home')];
+    ['campaign', 'adset', 'ad'].forEach(function (k) { if (q.get(k)) ref.push('utm_' + (k === 'campaign' ? 'campaign' : k) + '=' + encodeURIComponent(q.get(k))); });
+    document.getElementById('get').href =
+      'https://play.google.com/store/apps/details?id=com.sparkmate.social.live&referrer=' + encodeURIComponent(ref.join('&'));
+    document.getElementById('open').href = 'sparkmate://' + seg + location.search;
+    var lines = {
+      drama: 'Binge-worthy short dramas. Episode 1 is free.',
+      live: 'Binge-worthy short dramas. Episode 1 is free.',
+      meet: 'Meet people near you and say hi.',
+      kegel: '3 minutes a day. Private, simple Kegel training.',
+      stars: 'Your daily horoscope, tarot and love match.',
+      shop: 'Earn coins and redeem free items.'
+    };
+    if (lines[seg]) document.getElementById('line').textContent = lines[seg];
+  })();
+</script>
+</body>
+</html>
