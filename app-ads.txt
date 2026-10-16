@@ -2461,7 +2461,7 @@ pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
 voisetech.com, 1127, RESELLER, 9009ef0379162448
 
-#Gigo
+#Bigo
 bigo.sg,4tcioxaon6,DIRECT
 adingenious.com, 70392, RESELLER
 oko.uk, a4eb11dd-9bc5-4d77-9877-71f69dcfc08f, DIRECT, b3511ffcafb23a32
@@ -2794,3 +2794,39 @@ improvedigital.com, 2650, RESELLER
 pubmatic.com, 168362, RESELLER, 5d62403b186f2ace
 sharethrough.com, 3160, RESELLER, d53b998a7bd4ecd2
 outbrain.com, 002084f3cc5242e7bbd2fb9a69e220a36a, RESELLER
+bigo.sg, q9hk29ki8d, RESELLER
+pubmatic.com, 168366, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168367, RESELLER, 5d62403b186f2ace
+adform.com, 3428, RESELLER, 9f5210a2f0999e32
+adform.com, 3429, RESELLER, 9f5210a2f0999e32
+bidline.net, 4d8b12af, RESELLER
+loopme.com, 20968, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 20970, RESELLER, 6c8d5f95897a5a3b
+triplelift.com, 14833, RESELLER, 6c33edb13117fd86
+iion.io, 10353, RESELLER
+triplelift.com, 14551, RESELLER, 6c33edb13117fd86
+smartadserver.com, 4618, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4618, RESELLER, d53b998a7bd4ecd2
+genieesspv.jp, s5, RESELLER
+smaato.com, 1100060469, RESELLER, 07bcf65f187117b4
+onlinemediasolutions.com,43235,RESELLER,b3868b187e4b6402
+toponad.com,165a5011a17c2b,RESELLER,1d49fe424a1a456d
+smilewanted.com, 6265, RESELLER
+openx.com, 609225366, RESELLER, 6a698e2ec38604c6
+omni-dex.io, 100108, RESELLER
+insticator.com, 4022291c-df72-416d-98ba-ab42fb0696d3, RESELLER, b3511ffcafb23a32
+yieldmo.com, 4159765376676077684, RESELLER
+adingo.jp, 31595, RESELLER
+pubnative.net, 1018308, RESELLER, d641df8625486a7b
+smaato.com, 1100060477, RESELLER, 07bcf65f187117b4
+smaato.com, 1100060475, RESELLER, 07bcf65f187117b4
+risecodes.com, 6a952bfdeb73a000010a2f63, RESELLER
+taurusx.com, 80657, RESELLER
+bid-matrix.com, d576e3be59319075, RESELLER
+adorphic.com, 4067, RESELLER
+vistars.ai, d7njl5dbhjes73cnd8tg, RESELLER
+gravite.net, c6f2f6708dc1f6e2ae1165c0a861b3b0, RESELLER
+openx.com, 564879531, RESELLER, 6a698e2ec38604c6
+conversantmedia.com, 101349, RESELLER, 03113cd04947736d
+krushmedia.com, AJxF6R719a9M6CaTvK, RESELLER
+insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
