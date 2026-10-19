@@ -888,6 +888,87 @@ acexchange.co.kr, 1562884725, RESELLER
 mman.kr, 32102, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
+triplelift.com, 11474, reseller, 6c33edb13117fd86
+admixer.net, 6453e352-f022-471f-ae8e-e1ff54183704, reseller
+bigo.sg, g93ofwdl64, reseller
+rubiconproject.com, 28433, reseller, 0bfd66d529a55807
+appnexus.com, 13227, reseller
+bidmachine.io, 1586, reseller
+openx.com, 564972066, reseller, 6a698e2ec38604c6
+pubeasy.io, 110038, reseller
+triplelift.com, 12465, reseller, 6c33edb13117fd86
+media.net, 8caok5v3y, reseller, 818f58666cabc936
+admatic.com.tr, adm-pub-3033566192, reseller, uufps1dh5stc6euk
+contextweb.com, 562911, reseller, 89ff185a4c4e857c
+eskimi.com, 2020001208, reseller
+lijit.com, 528054, reseller, fafdf38b16bf6b2b
+rubiconproject.com, 17130, reseller, 0bfd66d529a55807
+adcolony.com, f5e40265723efb01, reseller, 1ad675c9de6b5176
+smaato.com, 1100042823, reseller, 07bcf65f187117b4
+mman.kr, 30769, reseller
+adagio.io, 1639, reseller
+triplelift.com, 11883, reseller, 6c33edb13117fd86
+olaex.biz, 100184, reseller
+freewheel.tv, 535664-r-523319, reseller
+brightmountainmedia.com, 2686547, reseller
+yandex.com, 95746987, reseller
+rubiconproject.com, 25100, reseller, 0bfd66d529a55807
+xandr.com, 13955, reseller
+lijit.com, 571745, reseller
+anzu.io, 6966391dcfe6b82adfb725ab, reseller, 1c1b7acf4992136c
+axonix.com, 59203, reseller, bc385f2b4a87b721
+osgdigital.net, 100185, reseller
+media.net, 8ca7bo5y1, reseller, 818f58666cabc936
+pubmatic.com, 158565, reseller, 5d62403b186f2ace
+adwmg.com, 101422, reseller, c9688a22012618e7
+themediagrid.com, swh94x, reseller, 9fac4a4a87c2a44f
+contextweb.com, 562772, reseller, 89ff185a4c4e857c
+bidease.com, bidease_seller_40, reseller
+triplelift.com, 12353, reseller, 6c33edb13117fd86
+intenze.co, 200066, reseller
+vidazoo.com, 6ab4e4454da99de3c4d515c9, reseller, b6ada874b4d7d0b2
+33across.com, 0010b00002xbn7qaar, reseller, bbea06d9c4d2853c
+triplelift.com, 13423, reseller
+ogury.com, 260f8f9c-5adc-46ca-9418-ed6ad8948af7, reseller
+toponad.com, 16840245098fe7, reseller, 1d49fe424a1a456d
+openx.com, 537140488, reseller, 6a698e2ec38604c6
+risecodes.com, 5857d2ee263dc90002000001, reseller
+azberry.com, 721014, reseller
+nativo.com, 6072, reseller, 59521ca7cc5e9fee
+blueseasx.com, 203821, reseller, 7998eac5087f6110
+aralego.com, par-aa7b236ba32dd484c838e249362437b8, reseller
+adform.com, 3268, reseller, 9f5210a2f0999e32
+rubiconproject.com, 26512, reseller, 0bfd66d529a55807
+braingames.net, 625184, reseller
+acexchange.co.kr, 1416775282, reseller
+betweendigital.com, 45117, reseller
+start.io, 196163636, reseller
+themediagrid.com, iosrab, reseller, 9fac4a4a87c2a44f
+indexexchange.com, 219174, reseller, 50b1c356f2c5c8fc
+media.net, 8cu76268d, reseller, 818f58666cabc936
+growone.sg, 108b7d5328f7442cd7e19c4463d7ff8d, reseller
+pubeasy.io, 110070, reseller
+opera.com, pub14613577249152, reseller, 55a0c5fd61378de3
+adiiix.com, par-aa7b236ba32dd484c838e249362437b8, reseller
+media.net, 8ca7hk107, reseller
+triplelift.com, 5984, reseller, 6c33edb13117fd86
+media.net, 8cui89k0d, reseller, 818f58666cabc936
+smartbid.ai, smb30004, reseller, 98eb473904e71631
+openx.com, 541017750, reseller, 6a698e2ec38604c6
+themediagrid.com, nc7lxt, reseller, 9fac4a4a87c2a44f
+adagio.io, 1618, reseller
+unrulymedia.com, 476748946, reseller
+toponad.com, 167b598761f73e, reseller, 1d49fe424a1a456d
+newtonsmobi.com, 1c72568c304bd290, reseller
+pubmatic.com, 166063, reseller, 5d62403b186f2ace
+gamoshi.io, 267-b4944, reseller, 20e30b2ae1f670f2
+mindtos.com, mt43c875578ca85337, reseller
+ucfunnel.com, par-aa7b236ba32dd484c838e249362437b8, reseller
+improvedigital.com, 2541, reseller
+pubnative.net, 1008379, reseller, d641df8625486a7b
+admixer.net, 250, reseller
+nativo.com, 6114, reseller, 59521ca7cc5e9fee
+bold-win.com, 1142, reseller, 71746737d0bab951
 
 #zmaticoo.com
 zmaticoo.com, 88530, DIRECT
