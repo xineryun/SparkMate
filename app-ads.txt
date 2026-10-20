@@ -791,6 +791,11 @@ netmarvel.com, 1011828, RESELLER, ca3509163a633862
 bold-win.com, 1189, RESELLER, 71746737d0bab951
 xandr.com, 7353, RESELLER
 sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
 
 #inmobi.com
 inmobi.com, 9f68916d8964480f846135196e8e80a6, DIRECT, 83e75a7ae333ca9d
